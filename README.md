@@ -1,0 +1,1 @@
+# bank An Android Application used to create bank accounts, validate user input, check account balances & processes deposit & withdrawals activities using Kotlin language. It programmed using functions, loops, conditional statement & when expression to create the functionality of baking Account app stimulation. 
